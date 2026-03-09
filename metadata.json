@@ -1,0 +1,5 @@
+{
+  "name": "OpenClaw Installer",
+  "description": "A one-click installation assistant for OpenClaw.",
+  "requestFramePermissions": []
+}
